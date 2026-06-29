@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 头部 -->
+  <path d="M85 35 Q90 25 100 28 Q108 30 105 40 Q102 48 95 45 Q88 42 85 35" fill="currentColor"/>
+  
+  <!-- 喙 -->
+  <path d="M85 38 L75 42 L82 44" fill="currentColor"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="95" cy="38" r="2" fill="white"/>
+  
+  <!-- 头部装饰 -->
+  <path d="M100 32 Q110 25 115 30 Q120 35 118 42 Q115 48 108 45"/>
+  <circle cx="118" cy="38" r="4" fill="currentColor"/>
+  
+  <!-- 颈部 -->
+  <path d="M95 48 Q100 65 95 80 Q90 95 85 110 Q80 125 75 140"/>
+  
+  <!-- 身体 -->
+  <path d="M75 140 Q70 155 80 170 Q90 185 110 180 Q130 175 140 165 Q150 155 145 140 Q140 125 120 120 Q100 115 85 125 Q75 132 75 140" fill="currentColor"/>
+  
+  <!-- 翅膀 -->
+  <path d="M85 135 Q100 130 120 135 Q140 140 155 150 Q165 158 160 165"/>
+  <path d="M90 145 Q110 142 130 148 Q150 155 165 165"/>
+  
+  <!-- 身体纹理 -->
+  <path d="M85 150 Q95 155 105 150" stroke-width="1.5"/>
+  <path d="M90 160 Q100 165 110 160" stroke-width="1.5"/>
+  <path d="M95 170 Q105 175 115 170" stroke-width="1.5"/>
+  
+  <!-- 前腿 -->
+  <path d="M85 175 L80 200 L75 210"/>
+  <path d="M80 200 L85 205"/>
+  <path d="M80 200 L72 202"/>
+  
+  <!-- 后腿 -->
+  <path d="M105 178 L110 205 L115 215"/>
+  <path d="M110 205 L118 208"/>
+  <path d="M110 205 L102 207"/>
+  
+  <!-- 尾部主羽 -->
+  <path d="M120 170 Q130 190 135 215 Q138 235 140 245"/>
+  <path d="M130 165 Q145 185 152 210 Q158 235 162 255"/>
+  <path d="M140 160 Q158 180 168 205 Q178 230 185 250"/>
+  
+  <!-- 尾部装饰圆点 -->
+  <circle cx="142" cy="250" r="6" fill="currentColor"/>
+  <circle cx="165" cy="260" r="7" fill="currentColor"/>
+  <circle cx="188" cy="270" r="8" fill="currentColor"/>
+  
+  <!-- 尾部卷曲装饰 -->
+  <path d="M145 245 Q155 240 160 250 Q165 260 155 265"/>
+  <path d="M168 255 Q180 250 185 262 Q190 275 178 280"/>
+</svg>
